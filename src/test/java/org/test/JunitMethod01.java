@@ -82,8 +82,9 @@ public class JunitMethod01 extends DemoBlazeBass{
 		test.sleep(2000);
 		
 		System.out.println("completed");
-		System.err.println("checking");
+		System.out.println("checking");
 		
+		System.out.println("ok");
 	}
 	
 		
