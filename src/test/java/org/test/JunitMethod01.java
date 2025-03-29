@@ -85,6 +85,7 @@ public class JunitMethod01 extends DemoBlazeBass{
 		System.out.println("checking");
 		
 		System.out.println("ok");
+		System.out.println("excfvgs");
 	}
 	
 		
