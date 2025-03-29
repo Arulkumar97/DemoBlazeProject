@@ -81,6 +81,8 @@ public class JunitMethod01 extends DemoBlazeBass{
 		test.click(purchase);
 		test.sleep(2000);
 		
+		System.out.println("completed");
+		
 	}
 	
 		
